@@ -1,0 +1,6 @@
+﻿  Buffer.cpp
+  GPGPUManager.cpp
+  GPUProgram.cpp
+c:\users\hasan\documents\visual studio 2017\projects\image processor\gpu system\gpuprogram.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  GPU System.vcxproj -> C:\Users\Hasan\Documents\Visual Studio 2017\Projects\Image Processor\Debug\GPGPU Manager.lib

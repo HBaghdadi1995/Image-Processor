@@ -1,0 +1,14 @@
+C:\Users\Hasan\Documents\Visual Studio 2017\Projects\Image Processor\Image Processor\bin\x86\Debug\Image_Processor.exe.config
+C:\Users\Hasan\Documents\Visual Studio 2017\Projects\Image Processor\Image Processor\bin\x86\Debug\Image_Processor.exe
+C:\Users\Hasan\Documents\Visual Studio 2017\Projects\Image Processor\Image Processor\bin\x86\Debug\Image_Processor.pdb
+C:\Users\Hasan\Documents\Visual Studio 2017\Projects\Image Processor\Image Processor\obj\x86\Debug\Image Processor.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Documents\Visual Studio 2017\Projects\Image Processor\Image Processor\obj\x86\Debug\Image_Processor.exe
+C:\Users\Hasan\Documents\Visual Studio 2017\Projects\Image Processor\Image Processor\obj\x86\Debug\Image_Processor.pdb
+C:\Users\Hasan\Documents\Visual Studio 2017\Projects\Image Processor\Image Processor\obj\x86\Debug\Image Processor.csprojAssemblyReference.cache
+D:\Git-Kraken\Image Processor\Image-Processor\Image Processor\bin\x86\Debug\Image_Processor.exe.config
+D:\Git-Kraken\Image Processor\Image-Processor\Image Processor\bin\x86\Debug\Image_Processor.exe
+D:\Git-Kraken\Image Processor\Image-Processor\Image Processor\bin\x86\Debug\Image_Processor.pdb
+D:\Git-Kraken\Image Processor\Image-Processor\Image Processor\obj\x86\Debug\Image Processor.csprojAssemblyReference.cache
+D:\Git-Kraken\Image Processor\Image-Processor\Image Processor\obj\x86\Debug\Image Processor.csproj.CoreCompileInputs.cache
+D:\Git-Kraken\Image Processor\Image-Processor\Image Processor\obj\x86\Debug\Image_Processor.exe
+D:\Git-Kraken\Image Processor\Image-Processor\Image Processor\obj\x86\Debug\Image_Processor.pdb
